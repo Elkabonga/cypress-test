@@ -1,4 +1,4 @@
 # cypress-test
 
-run
+run<br>
 ./node_modules/.bin/cypress open
